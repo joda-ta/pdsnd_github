@@ -185,7 +185,7 @@ def user_stats(df):
 
 def display_raw_data(df):
     """ Ask if the user would like to see some lines of data from the specific dataset.
-    Display first 5 lines. Continue asking whether they want to see more until user says no.
+    Display first 5 lines.Continue asking whether they want to see more until user says no.
     """
     display_rows = 5
     starting_row = 0
